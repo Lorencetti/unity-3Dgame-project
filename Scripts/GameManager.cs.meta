@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 5d5bed217610e6f45a2f4e550923f6d0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - ammoPickup: {fileID: 184414, guid: 0f61da79609e34e4fac2f851272dc974, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
